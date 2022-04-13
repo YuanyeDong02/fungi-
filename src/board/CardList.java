@@ -5,7 +5,7 @@ import cards.Card;
 import java.util.ArrayList;
 
 public class CardList {
-    private static ArrayList<Card> cList;
+    private ArrayList<Card> cList;
     public CardList(){
         cList=new ArrayList<Card>();
     }

@@ -7,5 +7,5 @@ public enum CardType {
     BUTTER,
     PAN,
     BASKET,
-    STICK,
-    }
+    STICK;
+}

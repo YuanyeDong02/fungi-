@@ -7,32 +7,31 @@ public class EdibleItem extends Card {
     public EdibleItem(CardType type,String cardName){
         super(type, cardName);
         switch(cardName){
-            case "Honeyfungus":
+            case "honeyfungus":
                 flavourPoints=1;
                 break;
-            case "BirchBolete":
+            case "birchbolete":
                 flavourPoints=3;
                 break;
-            case "HenOfWoods":
+            case "henofwoods":
                 flavourPoints=3;
                 break;
-            case "TreeEar":
+            case "treeear":
                 flavourPoints=1;
                 break;
-            case "LawyersWig":
+            case "lawyerswig":
                 flavourPoints=2;
                 break;
-
-            case "Porcini":
+            case "porcini":
                 flavourPoints=3;
                 break;
-            case "Chanterelle":
+            case "chanterelle":
                 flavourPoints=4;
                 break;
-            case "Morel":
+            case "morel":
                 flavourPoints=6;
                 break;
-            case "Shiitake":
+            case "shiitake":
                 flavourPoints=2;
                 break;
 
