@@ -21,7 +21,6 @@ public class Mushroom extends EdibleItem{
             case "lawyerswig":
                 sticksPerMushroom=1;
                 break;
-
             case "porcini":
                 sticksPerMushroom=3;
                 break;
@@ -34,8 +33,6 @@ public class Mushroom extends EdibleItem{
             case "shiitake":
                 sticksPerMushroom=2;
                 break;
-
-
         }
     }
 
